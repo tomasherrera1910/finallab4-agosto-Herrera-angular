@@ -1,0 +1,27 @@
+<div class="container">
+<table>
+    <tr>
+      <td><span style="color: red">&nbsp;&nbsp;</span></td>
+      <td><a>Animales</a></td>
+      <td align="rigth">Termino de Busqueda:</td>
+      <td>
+        <select [(ngModel)]="filtro" [ngModelOptions]="{standalone: true}">
+            <option value="carnivoros">Carnivoro</option>
+            <option value="herbivoro">Herbivoro</option>
+            <option value="omnivoros">Omnivoro</option>
+        </select>
+      </td>
+      <td><button (click)="filtrarAnimales()">Buscar</button></td>
+    </tr>
+</table>
+
+<app-item-animal *ngFor="let animal of animales" [animal]="animal"></app-item-animal>
+</div>
+<style>
+    .container{
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:center;
+    }
+</style>

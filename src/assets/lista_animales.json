@@ -1,0 +1,64 @@
+[{
+		"id": "1",
+		"nombre": "Leon",
+		"caracteristicas": ["félino viviente más grande", "extremidades potentes", "fuerte mandíbula"],
+		"descripcion": "El león (Panthera leo) es un mamífero carnívoro de la familia de los félidos y una de las cinco especies del género Panthera. Los leones salvajes viven en poblaciones cada vez más dispersas y fragmentadas del África subsahariana (a excepción de las regiones selváticas de la costa del Atlántico y la cuenca del Congo) y una pequeña zona del noroeste de India (una población en peligro crítico en el Parque nacional del Bosque de Gir y alrededores), habiendo desaparecido del resto de Asia del Sur, Asia Occidental, África del Norte y la península balcánica en tiempos históricos.",
+		"img": "assets/img/leon.jpg",
+		"peso": "160-260 kg",
+		"clasificacion": "carnivoros"
+	},
+	{
+		"id": "2",
+		"nombre": "Elefante",
+		"caracteristicas": ["animales terrestres más grandes ", "gran movilidad y sensibilidad", "capaz de percibir sonidos infrasónicos"],
+		"descripcion": "Los elefantes o elefántidos (Elephantidae) son una familia de mamíferos placentarios del orden Proboscidea. Antiguamente se clasificaban, junto con otros mamíferos de piel gruesa, en el orden, ahora inválido, de los paquidermos (Pachydermata). Existen hoy en día tres especies y diversas subespecies. Entre los géneros extintos de esta familia destacan los mamuts.",
+		"img": "assets/img/elefante.jpg",
+		"peso": "8000-11000 kg",
+		"clasificacion": "herbivoro"
+	},
+	{
+		"id": "3",
+		"nombre": "Jirafa",
+		"caracteristicas": ["Su altura varía de entre aproximadamente 4.5 metros de altura en la embra y 5.9 o 6 metros en los machos", "Sus huesos son firmes", " su alimento está compuesto principalmente por hojas ubicadas en las copas delos árboles"],
+		"descripcion": "La jirafa Giraffa camelopardalis es una especie de mamífero artiodáctilo de la familia Giraffidae propio de África. Es la más alta de todas las especies de animales terrestres existentes. Puede alcanzar una altura de 5,8 m y un peso que varía entre 750 y 1600 kg. Su área de distribución es dispersa y se extiende de Chad, en el norte, hasta Sudáfrica en el sur, y de Níger en el oeste hasta Somalia en el este",
+		"img": "assets/img/jirafa.jpg",
+		"peso": "Puede ser de entre 700 kilos a 1.7 toneladas",
+		"clasificacion": "herbivoro"
+	},
+	{
+		"id": "4",
+		"nombre": "Cebra",
+		"caracteristicas": ["Las cebras tienen un excelente sentido de la vista. ", "Las cebras tienen un gran sentido del oído, y tienden a tener orejas más grandes y redondeadas que los caballos.", "La esperanza de vida media de las cebras es de unos treinta años"],
+		"descripcion": "Etimológicamente, la palabra cebra que utilizan los hablantes de castellano deriva del nombre del zevro un équino salvaje que habitó la península ibérica por lo menos hasta bastante avanzada la Edad Media",
+		"img": "assets/img/cebra.jpg",
+		"peso": "hasta 450 kilogramos",
+		"clasificacion": "herbivoro"
+	},
+	{
+		"id": "5",
+		"nombre": "Oso Pardo",
+		"caracteristicas": ["Los osos alcanzan la madurez sexual entre los tres y los cinco años", "la hembra pare de una a tres crías", "Su alimento preferido son los panales de miel."],
+		"descripcion": "Es un habitante característico de los bosques maduros de Europa, Asia templada y América del Norte. En este vasto territorio aparece bajo cierto número de subespecies, que se diferencian unas de otras por la coloración y el tamaño, hasta tal punto que antiguamente se les consideraba como especies autóctonas",
+		"img": "assets/img/oso.jpg",
+		"peso": "Su peso también varía, desde los 100 hasta los 675 kg.",
+		"clasificacion": "omnivoros"
+	},
+	{
+		"id": "6",
+		"nombre": "Guepardo ",
+		"caracteristicas": ["Caza gracias a su vista y a su gran velocidad", "Es el animal terrestre más veloz, ya que alcanza una velocidad punta entre 95 y 115 km/h en carreras de hasta 400-500 metros", "mide entre 110 y 150 cm de longitud"],
+		"descripcion": "Acostumbrado a que los carroñeros de mayor envergadura o fuerza (como la hiena, el león, el leopardo) o incluso el babuino, le roben las piezas que caza, el guepardo se ha habituado a cazar en las horas centrales del día, cuando los otros depredadores duermen. Su estructura física adaptada a la velocidad limita su capacidad de lucha y defensa, ya que su cuerpo es esbelto y fino a expensas de una musculatura potente y la fuerza en sus zarpas lo limitan al momento de enfrentarse a un oponente con dotes más defensivas. ",
+		"img": "assets/img/chita.jpg",
+		"peso": "pesa entre 35 y 60 kg",
+		"clasificacion": "carnivoros"
+	},
+	{
+		"id": "7",
+		"nombre": "Mandril",
+		"caracteristicas": [" son seres sociales que viven en grandes grupos ", "Alcanzan una envergadura de 1 metro", "en cautividad llegan a superar los 31 años de vida"],
+		"descripcion": "Los mandriles son fácilmente reconocibles por el color pardo oliváceo de su pelaje y sobre todo por la coloración azulada y rojiza de su cara y nalgas. La cara de los machos muestra en sus hocicos vivos rojos y azules, éstos también tienen profundas estrías que recorren ambos lados del hocico, que destaca más dentro del pelaje blanco que enmarca la cara. Esta coloración se adquiere con la madurez sexual y se intensifica cuando los individuos se excitan.",
+		"img": "assets/img/mandril.jpg",
+		"peso": "hasta 55 kg",
+		"clasificacion": "omnivoros"
+	}
+]
